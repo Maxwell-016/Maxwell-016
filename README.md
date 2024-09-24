@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on anything that has to do with flutter
 - 💬 Ask me about integrating firebase with flutter or building responsive UIs
 - 📫 How to reach me: e-mail me @ndungumaxwell057@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can code once and watch my app take flight on any device! 🚀
 
 
