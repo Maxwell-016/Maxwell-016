@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on an e_commerce platform
-- 🌱 I’m currently learning firebase components and security rules to ensure secure access control and data protection in my applications
+- 🔭 I’m currently working on an everything to do with flutter
 - 👯 I’m looking to collaborate on anything that has to do with flutter
 - 💬 Ask me about integrating firebase with flutter or building responsive UIs
 - 📫 How to reach me: e-mail me @ndungumaxwell057@gmail.com
