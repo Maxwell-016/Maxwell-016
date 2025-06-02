@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on everything to do with flutter
-- 👯 I’m looking to collaborate on anything that has to do with flutter
+- 🔭 I’m currently working on everything to do with flutter and react
+- 👯 I’m looking to collaborate on anything that has to do with flutter and react
 - 💬 Ask me about integrating firebase with flutter or building responsive UIs
 - 📫 How to reach me: e-mail me @ndungumaxwell057@gmail.com
 - 😄 Pronouns: He/Him
